@@ -1,4 +1,4 @@
-
+<img src="https://github.com/tri218138/tri218138/blob/main/masterhead.png" align="center" alt="GitHub TeeA" />
 <h1 align="center">Hi 👋, I'm Doan Tran Cao Tri</h1>
 <h3 align="center">A passionate business analysis (BA) from Vietnam</h3>
 
