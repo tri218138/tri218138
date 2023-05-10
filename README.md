@@ -1,6 +1,6 @@
 <img src="https://github.com/tri218138/tri218138/blob/main/masterhead.png" align="center" alt="GitHub TeeA" />
 <h1 align="center">Hi 👋, I'm Doan Tran Cao Tri</h1>
-<h3 align="center">A passionate business analysis (BA) from Vietnam</h3>
+<h3 align="center">One passionate individual with boundless enthusiasm for AI and conquering every challenge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tri218138&label=Profile%20views&color=0e75b6&style=flat" alt="tri218138" /> </p>
 
