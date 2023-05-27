@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **doantrancaotri1108@gmail.com**
 
+- ![youtube](https://github.com/tri218138/tri218138/assets/80521604/dfe11713-93a3-4af2-8941-f343ae4297e7) My Youtube Channel **https://www.youtube.com/watch?v=WGXOUTGorco&list=PLrZ8oocPgwTO0WbKidc2gbhnQu887ufxJ&index=1**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tri-doan-teea-695975241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tri-doan-teea-695975241" height="30" width="40" /></a>
