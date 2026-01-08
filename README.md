@@ -1,6 +1,7 @@
 <img src="https://github.com/tri218138/tri218138/blob/main/masterhead.png" align="center" alt="GitHub TeeA" />
 <h1 align="center">Hi 👋, I'm Doan Tran Cao Tri</h1>
 
+InternshipII (latest): https://drive.google.com/file/d/10gcDkGp0wrmVJI_brTSvIydLbHo_byiL/view?usp=sharing
 InternshipII: https://drive.google.com/file/d/1SGvyIw3fPi0NvLkS4F4BiUTTHa5MXnKt/view?usp=sharing
 
 <h3 align="center">One passionate individual with boundless enthusiasm for AI and conquering every challenge</h3>
